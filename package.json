@@ -1,0 +1,20 @@
+{
+  "name": "collab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "client":"cd client && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/consoleLogIt/collab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/consoleLogIt/collab/issues"
+  },
+  "homepage": "https://github.com/consoleLogIt/collab#readme"
+}
